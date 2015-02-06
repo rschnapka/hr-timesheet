@@ -18,5 +18,5 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
-from . import hr_timesheet
-from . import hr_attendance
+from openerp import hr_timesheet
+from openerp import hr_attendance

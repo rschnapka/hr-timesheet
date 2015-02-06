@@ -18,6 +18,6 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
-from . import hr_holidays
-from . import company
-from . import wizard
+from openerp import hr_holidays
+from openerp import company
+from openerp import wizard

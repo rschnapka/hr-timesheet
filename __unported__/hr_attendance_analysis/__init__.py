@@ -19,8 +19,8 @@
 #    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 ##############################################################################
-from . import hr_attendance
-from . import hr_contract
-from . import report
-from . import wizard
-from . import resource
+from openerp import hr_attendance
+from openerp import hr_contract
+from openerp import report
+from openerp import wizard
+from openerp import resource
